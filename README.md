@@ -8,4 +8,4 @@ Diya Kiran - Web Designer and Content provider <br>
 Anisha Patnaik - Frontend Web Developer and Speaker<br>
 ----------------------------------------------------------------------------
 Link to the hosted website-
-https://abhilasha6.github.io/ADAA/
+https://meabhilashapanda.wixsite.com/asap
